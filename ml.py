@@ -1,2 +1,3 @@
 # mlpracticefinal
 practice
+print(practice)
